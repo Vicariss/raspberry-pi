@@ -1,7 +1,12 @@
 from gpiozero import CPUTemperature
 from time import sleep, strftime
 
-# implement cli features
+"""
+TODO 
+- implement cli features
+- add average temperature
+- *enovee - implement graphs - how much/why/when temp changing over time?
+"""
 
 while True:
     cpu = CPUTemperature()
