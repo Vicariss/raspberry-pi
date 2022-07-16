@@ -6,6 +6,7 @@ TODO
 - implement cli features
 - add average temperature
 - *enovee - implement graphs - how much/why/when temp changing over time?
+- Edit and test commit 1607
 """
 
 while True:
